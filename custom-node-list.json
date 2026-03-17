@@ -43517,7 +43517,7 @@
                 "https://github.com/Flibens/comfyui-image-browser"
             ],
             "install_type": "git-clone",
-            "description": "Image browser extension for ComfyUI with search, favorites, metadata view, compare mode, and media support."
+            "description": "Image browser extension for ComfyUI with search, favorites, metadata view, compare mode, media support, a mini browser inside ComfyUI, and a new theme."
         }
     ]
 }
